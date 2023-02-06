@@ -1,0 +1,87 @@
+main{
+    background-color:  #FFEBEE;
+    font-family: 'Lobster Two', cursive;
+}
+h1{
+    color: chocolate;
+    background-color: aqua;
+    font-family: 'Times New Roman';
+}
+.button{
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    text-align: center;
+    size: 20px;
+    width: 20%;
+    border-radius: 41px;
+}
+.buttonrow{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button:hover{
+    color:#0d6efd;
+    background-color: #fff;
+}
+input{
+    border-radius: 4px;
+}
+h5{
+    font-size: 16px;
+    color: blue;
+    text-align: center;
+}
+form.label{
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    border: 50px;
+    border-color: blue;
+    display: inline;
+    background-color: #FFEBEE;
+}
+.form{
+    background-color: #ffff;
+    width: 50%;
+    margin:auto;
+    border: outset;
+    border-radius: 20px;
+
+   
+}
+.rowfields{
+    margin: 41px 19px 26px 52px;
+    text-align: center;
+}
+.col-1{
+    margin: 4px 450px 4px 20px;
+}
+.col2{
+    margin: -25px 34px -2px 300px
+}
+.img{
+    height: 100px;
+}
+textarea{
+    border-radius: 20px;
+    text-align: center;
+    width: 97%;
+}
+.rowtextarea{
+    margin: 41px 19px 26px 52px;
+    text-align: center;
+}
+.col-2{
+    text-align: center;
+}
+.col1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.input-select{
+    width: 500px;
+    height: 30px;
+}

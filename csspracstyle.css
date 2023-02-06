@@ -1,0 +1,13 @@
+.container{
+background-color: pink;
+  width: 500px;
+  border: 20px solid green;
+  padding: 34px;
+  margin: 34px auto
+}
+.btn{
+    background-color: aqua;
+    padding: 6px;
+    
+    cursor: pointer;
+}

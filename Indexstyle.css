@@ -1,0 +1,29 @@
+.navbar{
+    background-color: black;
+    border-radius: 30px;
+}
+.navbar a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: palegreen;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: right;
+    list-style: none;
+    margin: 13px 20px;
+}
+.searchBox{
+    padding: 12px 75px;
+    color: whitesmoke;
+   
+}
+#search{
+    border-radius: 15px;
+    padding: 5px;
+}
+.img{
+    border-radius: 149px;
+}
